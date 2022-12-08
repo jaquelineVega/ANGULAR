@@ -1,0 +1,7 @@
+{
+  "/api/*":{
+    "target": "https://localhost:8080/app-difusion",
+    "secure": false,
+    "logLevel":"debug"
+  }
+}
